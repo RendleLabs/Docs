@@ -51,6 +51,10 @@
       href: wcf-endpoints-and-grpc-methods.md
     - name: Types of RPC
       href: types-of-rpc.md
+    - name: Metadata
+      href: metadata.md
+    - name: Error handling
+      href: error-handling.md
   - name: Migrating a WCF solution to gRPC
     href: migrating-wcf-to-grpc.md
     items:

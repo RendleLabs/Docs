@@ -257,4 +257,4 @@ public class Chat : IAsyncDisposable
 ```
 
 >[!div class="step-by-step"]
-<!-->[Next](migrating-wcf-to-grpc.md)-->
+<!-->[Next](metadata.md)-->
